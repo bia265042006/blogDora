@@ -1,0 +1,14 @@
+ 
+header{ 
+    background-color:#FFD8D8;
+    color: #0000;
+}
+.cabecalho{
+    background-color: #FFD8D8;
+    color: #EE1296;
+    justify-content: center;
+ }
+
+.cabecalho-imagem{
+    width: 30%;
+ }
